@@ -3,3 +3,13 @@ Original code for : 'MTALTCO1: a 259 amino-acid long mtDNA-encoded alternative p
 
 OVERVIEW
 
+Meant to run as independent files.
+
+
+
+Which figures..
+Figure 1: Length....
+
+
+
+dependencies...
