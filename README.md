@@ -3,6 +3,6 @@ Original code for : 'MTALTCO1: a 259 amino-acid long mtDNA-encoded alternative p
 
 WORKFLOW OVERVIEW
 
-This lists every script and every data file needed to run the code, and their relation
+This lists every script and their relation to every data file needed to run the code.
 
-<img width="1325" alt="Screenshot 2025-06-30 at 4 26 48 PM" src="https://github.com/user-attachments/assets/9897e173-bbef-489d-abd4-996e9d5c0e69" />
+<img width="1150" alt="Screenshot 2025-06-30 at 4 35 01 PM" src="https://github.com/user-attachments/assets/73d07dae-7b3c-4a83-8138-449362f349cf" />
